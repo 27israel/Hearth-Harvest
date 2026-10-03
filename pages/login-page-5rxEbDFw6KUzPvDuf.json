@@ -1,0 +1,44 @@
+{
+  "frames": [
+    {
+      "component": {
+        "COMPONENT_NAME_PREFIX": "",
+        "attributes": {
+          "id": "itdrj8"
+        },
+        "components": [
+          {
+            "attributes": {
+              "id": "izs7tou"
+            },
+            "components": [],
+            "type": "custom-code"
+          }
+        ],
+        "docEl": {
+          "tagName": "html"
+        },
+        "head": {
+          "type": "head"
+        },
+        "publicStates": [],
+        "stylable": [
+          "background",
+          "background-color",
+          "background-image",
+          "background-repeat",
+          "background-attachment",
+          "background-position",
+          "background-size"
+        ],
+        "type": "wrapper"
+      },
+      "id": "NkSfEtKmHv86MBfB"
+    }
+  ],
+  "id": "5rxEbDFw6KUzPvDuf",
+  "name": "Login Page",
+  "settings": {
+    "head": "<style>.shoptest{color:rgb(1,2,3)}</style>"
+  }
+}

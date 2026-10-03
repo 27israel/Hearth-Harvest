@@ -1,0 +1,3656 @@
+{
+  "frames": [
+    {
+      "component": {
+        "COMPONENT_NAME_PREFIX": "",
+        "attributes": {
+          "id": "iplpxbr"
+        },
+        "components": [
+          {
+            "classes": [
+              "header"
+            ],
+            "components": [
+              {
+                "classes": [
+                  "topbar"
+                ],
+                "components": [
+                  {
+                    "classes": [
+                      "container",
+                      "topbar__inner"
+                    ],
+                    "components": [
+                      {
+                        "classes": [
+                          "topbar__text"
+                        ],
+                        "components": [
+                          {
+                            "content": "Free delivery on orders over ",
+                            "type": "textnode"
+                          },
+                          {
+                            "components": [
+                              {
+                                "content": "$35",
+                                "type": "textnode"
+                              }
+                            ],
+                            "tagName": "strong",
+                            "type": "text"
+                          },
+                          {
+                            "content": " — every day, 11am–9pm",
+                            "type": "textnode"
+                          }
+                        ],
+                        "tagName": "p",
+                        "type": "text"
+                      },
+                      {
+                        "classes": [
+                          "topbar__links"
+                        ],
+                        "components": [
+                          {
+                            "attributes": {
+                              "href": "#"
+                            },
+                            "classes": [
+                              "topbar__link"
+                            ],
+                            "components": [
+                              {
+                                "content": "Track order",
+                                "type": "textnode"
+                              }
+                            ],
+                            "type": "link"
+                          },
+                          {
+                            "attributes": {
+                              "href": "#"
+                            },
+                            "classes": [
+                              "topbar__link"
+                            ],
+                            "components": [
+                              {
+                                "content": "Help center",
+                                "type": "textnode"
+                              }
+                            ],
+                            "type": "link"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "classes": [
+                  "container",
+                  "navbar__inner"
+                ],
+                "components": [
+                  {
+                    "attributes": {
+                      "href": "./"
+                    },
+                    "classes": [
+                      "logo"
+                    ],
+                    "components": [
+                      {
+                        "classes": [
+                          "logo__mark"
+                        ],
+                        "components": [
+                          {
+                            "content": "H",
+                            "type": "textnode"
+                          }
+                        ],
+                        "tagName": "span",
+                        "type": "text"
+                      },
+                      {
+                        "classes": [
+                          "logo__name"
+                        ],
+                        "components": [
+                          {
+                            "classes": [
+                              "logo__title"
+                            ],
+                            "components": [
+                              {
+                                "content": "Hearth & Harvest",
+                                "type": "textnode"
+                              }
+                            ],
+                            "tagName": "span",
+                            "type": "text"
+                          },
+                          {
+                            "classes": [
+                              "logo__tag"
+                            ],
+                            "components": [
+                              {
+                                "content": "Kitchen & Grocery",
+                                "type": "textnode"
+                              }
+                            ],
+                            "tagName": "span",
+                            "type": "text"
+                          }
+                        ],
+                        "tagName": "span"
+                      }
+                    ],
+                    "editable": false,
+                    "type": "link"
+                  },
+                  {
+                    "classes": [
+                      "nav"
+                    ],
+                    "components": [
+                      {
+                        "attributes": {
+                          "href": "./"
+                        },
+                        "classes": [
+                          "nav__link"
+                        ],
+                        "components": [
+                          {
+                            "content": "Home",
+                            "type": "textnode"
+                          }
+                        ],
+                        "type": "link"
+                      },
+                      {
+                        "attributes": {
+                          "href": "./shop.html"
+                        },
+                        "classes": [
+                          "nav__link",
+                          "nav__link--active"
+                        ],
+                        "components": [
+                          {
+                            "content": "Shop",
+                            "type": "textnode"
+                          }
+                        ],
+                        "type": "link"
+                      },
+                      {
+                        "attributes": {
+                          "href": "#"
+                        },
+                        "classes": [
+                          "nav__link"
+                        ],
+                        "components": [
+                          {
+                            "content": "Menu",
+                            "type": "textnode"
+                          }
+                        ],
+                        "type": "link"
+                      },
+                      {
+                        "attributes": {
+                          "href": "./#about"
+                        },
+                        "classes": [
+                          "nav__link"
+                        ],
+                        "components": [
+                          {
+                            "content": "About",
+                            "type": "textnode"
+                          }
+                        ],
+                        "type": "link"
+                      },
+                      {
+                        "attributes": {
+                          "href": "#"
+                        },
+                        "classes": [
+                          "nav__link"
+                        ],
+                        "components": [
+                          {
+                            "content": "Contact",
+                            "type": "textnode"
+                          }
+                        ],
+                        "type": "link"
+                      }
+                    ],
+                    "tagName": "nav"
+                  },
+                  {
+                    "classes": [
+                      "navbar__actions"
+                    ],
+                    "components": [
+                      {
+                        "attributes": {
+                          "aria-label": "Cart, 0 items",
+                          "href": "#",
+                          "id": "cart-link"
+                        },
+                        "classes": [
+                          "cart"
+                        ],
+                        "components": [
+                          {
+                            "attributes": {
+                              "aria-hidden": "true",
+                              "fill": "none",
+                              "stroke": "currentColor",
+                              "stroke-linecap": "round",
+                              "stroke-linejoin": "round",
+                              "stroke-width": "2",
+                              "viewBox": "0 0 24 24"
+                            },
+                            "components": [
+                              {
+                                "attributes": {
+                                  "cx": "9",
+                                  "cy": "21",
+                                  "r": "1"
+                                },
+                                "resizable": {
+                                  "ratioDefault": true
+                                },
+                                "tagName": "circle",
+                                "type": "svg-in"
+                              },
+                              {
+                                "attributes": {
+                                  "cx": "20",
+                                  "cy": "21",
+                                  "r": "1"
+                                },
+                                "resizable": {
+                                  "ratioDefault": true
+                                },
+                                "tagName": "circle",
+                                "type": "svg-in"
+                              },
+                              {
+                                "attributes": {
+                                  "d": "M1 1h4l2.68 13.39a2 2 0 0 0 2 1.61h9.72a2 2 0 0 0 2-1.61L23 6H6"
+                                },
+                                "resizable": {
+                                  "ratioDefault": true
+                                },
+                                "tagName": "path",
+                                "type": "svg-in"
+                              }
+                            ],
+                            "resizable": {
+                              "ratioDefault": true
+                            },
+                            "type": "svg"
+                          },
+                          {
+                            "content": "\n        Cart\n        ",
+                            "type": "textnode"
+                          },
+                          {
+                            "attributes": {
+                              "id": "cart-count"
+                            },
+                            "classes": [
+                              "cart__count"
+                            ],
+                            "components": [
+                              {
+                                "content": "0",
+                                "type": "textnode"
+                              }
+                            ],
+                            "tagName": "span",
+                            "type": "text"
+                          }
+                        ],
+                        "type": "link"
+                      },
+                      {
+                        "attributes": {
+                          "href": "#"
+                        },
+                        "classes": [
+                          "btn",
+                          "btn--ghost",
+                          "btn--sm"
+                        ],
+                        "components": [
+                          {
+                            "content": "Login",
+                            "type": "textnode"
+                          }
+                        ],
+                        "type": "link"
+                      },
+                      {
+                        "attributes": {
+                          "href": "#"
+                        },
+                        "classes": [
+                          "btn",
+                          "btn--primary",
+                          "btn--sm"
+                        ],
+                        "components": [
+                          {
+                            "content": "Sign Up",
+                            "type": "textnode"
+                          }
+                        ],
+                        "type": "link"
+                      }
+                    ]
+                  },
+                  {
+                    "classes": [
+                      "mobile-nav"
+                    ],
+                    "components": [
+                      {
+                        "components": [
+                          {
+                            "attributes": {
+                              "aria-hidden": "true",
+                              "fill": "none",
+                              "height": "22",
+                              "stroke": "currentColor",
+                              "stroke-linecap": "round",
+                              "stroke-linejoin": "round",
+                              "stroke-width": "2",
+                              "viewBox": "0 0 24 24",
+                              "width": "22"
+                            },
+                            "components": [
+                              {
+                                "attributes": {
+                                  "x1": "3",
+                                  "x2": "21",
+                                  "y1": "6",
+                                  "y2": "6"
+                                },
+                                "resizable": {
+                                  "ratioDefault": true
+                                },
+                                "tagName": "line",
+                                "type": "svg-in"
+                              },
+                              {
+                                "attributes": {
+                                  "x1": "3",
+                                  "x2": "21",
+                                  "y1": "12",
+                                  "y2": "12"
+                                },
+                                "resizable": {
+                                  "ratioDefault": true
+                                },
+                                "tagName": "line",
+                                "type": "svg-in"
+                              },
+                              {
+                                "attributes": {
+                                  "x1": "3",
+                                  "x2": "21",
+                                  "y1": "18",
+                                  "y2": "18"
+                                },
+                                "resizable": {
+                                  "ratioDefault": true
+                                },
+                                "tagName": "line",
+                                "type": "svg-in"
+                              }
+                            ],
+                            "resizable": {
+                              "ratioDefault": true
+                            },
+                            "type": "svg"
+                          }
+                        ],
+                        "tagName": "summary"
+                      },
+                      {
+                        "classes": [
+                          "mobile-nav__panel"
+                        ],
+                        "components": [
+                          {
+                            "attributes": {
+                              "href": "./"
+                            },
+                            "classes": [
+                              "mobile-nav__link"
+                            ],
+                            "components": [
+                              {
+                                "content": "Home",
+                                "type": "textnode"
+                              }
+                            ],
+                            "type": "link"
+                          },
+                          {
+                            "attributes": {
+                              "href": "./shop.html"
+                            },
+                            "classes": [
+                              "mobile-nav__link",
+                              "mobile-nav__link--active"
+                            ],
+                            "components": [
+                              {
+                                "content": "Shop",
+                                "type": "textnode"
+                              }
+                            ],
+                            "type": "link"
+                          },
+                          {
+                            "attributes": {
+                              "href": "#"
+                            },
+                            "classes": [
+                              "mobile-nav__link"
+                            ],
+                            "components": [
+                              {
+                                "content": "Menu",
+                                "type": "textnode"
+                              }
+                            ],
+                            "type": "link"
+                          },
+                          {
+                            "attributes": {
+                              "href": "./#about"
+                            },
+                            "classes": [
+                              "mobile-nav__link"
+                            ],
+                            "components": [
+                              {
+                                "content": "About",
+                                "type": "textnode"
+                              }
+                            ],
+                            "type": "link"
+                          },
+                          {
+                            "attributes": {
+                              "href": "#"
+                            },
+                            "classes": [
+                              "mobile-nav__link"
+                            ],
+                            "components": [
+                              {
+                                "content": "Contact",
+                                "type": "textnode"
+                              }
+                            ],
+                            "type": "link"
+                          },
+                          {
+                            "classes": [
+                              "mobile-nav__divider"
+                            ],
+                            "tagName": "span"
+                          },
+                          {
+                            "attributes": {
+                              "href": "#",
+                              "id": "mobile-cart-link"
+                            },
+                            "classes": [
+                              "mobile-nav__link"
+                            ],
+                            "components": [
+                              {
+                                "content": "Cart (0)",
+                                "type": "textnode"
+                              }
+                            ],
+                            "type": "link"
+                          },
+                          {
+                            "attributes": {
+                              "href": "#"
+                            },
+                            "classes": [
+                              "mobile-nav__link"
+                            ],
+                            "components": [
+                              {
+                                "content": "Login",
+                                "type": "textnode"
+                              }
+                            ],
+                            "type": "link"
+                          },
+                          {
+                            "attributes": {
+                              "href": "#"
+                            },
+                            "classes": [
+                              "mobile-nav__link"
+                            ],
+                            "components": [
+                              {
+                                "content": "Sign Up",
+                                "type": "textnode"
+                              }
+                            ],
+                            "type": "link"
+                          }
+                        ]
+                      }
+                    ],
+                    "tagName": "details"
+                  }
+                ]
+              }
+            ],
+            "tagName": "header"
+          },
+          {
+            "attributes": {
+              "id": "shop-page"
+            },
+            "classes": [
+              "shop-page"
+            ],
+            "components": [
+              {
+                "attributes": {
+                  "id": "shop-hero"
+                },
+                "classes": [
+                  "shop-hero"
+                ],
+                "components": [
+                  {
+                    "classes": [
+                      "container"
+                    ],
+                    "components": [
+                      {
+                        "classes": [
+                          "eyebrow"
+                        ],
+                        "components": [
+                          {
+                            "content": "Shop",
+                            "type": "textnode"
+                          }
+                        ],
+                        "tagName": "span",
+                        "type": "text"
+                      },
+                      {
+                        "classes": [
+                          "shop-hero__title"
+                        ],
+                        "components": [
+                          {
+                            "content": "The full menu, ready when you are",
+                            "type": "textnode"
+                          }
+                        ],
+                        "tagName": "h1",
+                        "type": "text"
+                      },
+                      {
+                        "classes": [
+                          "shop-hero__text"
+                        ],
+                        "components": [
+                          {
+                            "content": "Chef-made meals, bakes, drinks and pantry staples — prepped fresh every morning and delivered to your door in under an hour. Search the menu or filter by category to find your favourites.",
+                            "type": "textnode"
+                          }
+                        ],
+                        "tagName": "p",
+                        "type": "text"
+                      }
+                    ]
+                  }
+                ],
+                "tagName": "section"
+              },
+              {
+                "attributes": {
+                  "id": "shop-catalog"
+                },
+                "classes": [
+                  "section",
+                  "shop-catalog"
+                ],
+                "components": [
+                  {
+                    "classes": [
+                      "container"
+                    ],
+                    "components": [
+                      {
+                        "classes": [
+                          "shop-toolbar"
+                        ],
+                        "components": [
+                          {
+                            "attributes": {
+                              "id": "iaj81b",
+                              "method": "get",
+                              "role": "search"
+                            },
+                            "classes": [
+                              "shop-search"
+                            ],
+                            "components": [
+                              {
+                                "attributes": {
+                                  "aria-hidden": "true",
+                                  "fill": "none",
+                                  "stroke": "currentColor",
+                                  "stroke-linecap": "round",
+                                  "stroke-linejoin": "round",
+                                  "stroke-width": "2",
+                                  "viewBox": "0 0 24 24"
+                                },
+                                "classes": [
+                                  "shop-search__icon"
+                                ],
+                                "components": [
+                                  {
+                                    "attributes": {
+                                      "cx": "11",
+                                      "cy": "11",
+                                      "r": "8"
+                                    },
+                                    "resizable": {
+                                      "ratioDefault": true
+                                    },
+                                    "tagName": "circle",
+                                    "type": "svg-in"
+                                  },
+                                  {
+                                    "attributes": {
+                                      "x1": "21",
+                                      "x2": "16.65",
+                                      "y1": "21",
+                                      "y2": "16.65"
+                                    },
+                                    "resizable": {
+                                      "ratioDefault": true
+                                    },
+                                    "tagName": "line",
+                                    "type": "svg-in"
+                                  }
+                                ],
+                                "resizable": {
+                                  "ratioDefault": true
+                                },
+                                "type": "svg"
+                              },
+                              {
+                                "attributes": {
+                                  "aria-label": "Search products",
+                                  "autocomplete": "off",
+                                  "id": "shop-search-input",
+                                  "name": "q",
+                                  "placeholder": "Search meals, bakes, drinks…",
+                                  "type": "search"
+                                },
+                                "classes": [
+                                  "shop-search__input"
+                                ],
+                                "type": "input",
+                                "void": true
+                              },
+                              {
+                                "attributes": {
+                                  "aria-label": "Clear search",
+                                  "hidden": true,
+                                  "id": "shop-search-clear",
+                                  "type": "button"
+                                },
+                                "classes": [
+                                  "shop-search__clear"
+                                ],
+                                "components": [
+                                  {
+                                    "content": "✕",
+                                    "type": "textnode"
+                                  }
+                                ],
+                                "text": "✕",
+                                "type": "button"
+                              }
+                            ],
+                            "type": "form"
+                          },
+                          {
+                            "attributes": {
+                              "aria-label": "Filter products by category",
+                              "role": "group"
+                            },
+                            "classes": [
+                              "shop-filters"
+                            ],
+                            "components": [
+                              {
+                                "attributes": {
+                                  "aria-pressed": "true",
+                                  "data-category": "all",
+                                  "type": "button"
+                                },
+                                "classes": [
+                                  "chip",
+                                  "chip--active"
+                                ],
+                                "components": [
+                                  {
+                                    "content": "All",
+                                    "type": "textnode"
+                                  }
+                                ],
+                                "text": "All",
+                                "type": "button"
+                              },
+                              {
+                                "attributes": {
+                                  "aria-pressed": "false",
+                                  "data-category": "meals",
+                                  "type": "button"
+                                },
+                                "classes": [
+                                  "chip"
+                                ],
+                                "components": [
+                                  {
+                                    "content": "Meals",
+                                    "type": "textnode"
+                                  }
+                                ],
+                                "text": "Meals",
+                                "type": "button"
+                              },
+                              {
+                                "attributes": {
+                                  "aria-pressed": "false",
+                                  "data-category": "breakfast",
+                                  "type": "button"
+                                },
+                                "classes": [
+                                  "chip"
+                                ],
+                                "components": [
+                                  {
+                                    "content": "Breakfast",
+                                    "type": "textnode"
+                                  }
+                                ],
+                                "text": "Breakfast",
+                                "type": "button"
+                              },
+                              {
+                                "attributes": {
+                                  "aria-pressed": "false",
+                                  "data-category": "bakery",
+                                  "type": "button"
+                                },
+                                "classes": [
+                                  "chip"
+                                ],
+                                "components": [
+                                  {
+                                    "content": "Bakery",
+                                    "type": "textnode"
+                                  }
+                                ],
+                                "text": "Bakery",
+                                "type": "button"
+                              },
+                              {
+                                "attributes": {
+                                  "aria-pressed": "false",
+                                  "data-category": "drinks",
+                                  "type": "button"
+                                },
+                                "classes": [
+                                  "chip"
+                                ],
+                                "components": [
+                                  {
+                                    "content": "Drinks",
+                                    "type": "textnode"
+                                  }
+                                ],
+                                "text": "Drinks",
+                                "type": "button"
+                              },
+                              {
+                                "attributes": {
+                                  "aria-pressed": "false",
+                                  "data-category": "desserts",
+                                  "type": "button"
+                                },
+                                "classes": [
+                                  "chip"
+                                ],
+                                "components": [
+                                  {
+                                    "content": "Desserts",
+                                    "type": "textnode"
+                                  }
+                                ],
+                                "text": "Desserts",
+                                "type": "button"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "attributes": {
+                          "id": "product-grid"
+                        },
+                        "classes": [
+                          "products"
+                        ],
+                        "components": [
+                          {
+                            "attributes": {
+                              "data-category": "meals",
+                              "data-id": "p1",
+                              "data-name": "Smokehouse Beef Burger",
+                              "data-price": "12.50"
+                            },
+                            "classes": [
+                              "product"
+                            ],
+                            "components": [
+                              {
+                                "classes": [
+                                  "product__media"
+                                ],
+                                "components": [
+                                  {
+                                    "attributes": {
+                                      "alt": "Smokehouse beef burger",
+                                      "src": "https://images.unsplash.com/photo-1571091718767-18b5b1457add?auto=format&fit=crop&w=700&q=80"
+                                    },
+                                    "classes": [
+                                      "product__img"
+                                    ],
+                                    "type": "image"
+                                  },
+                                  {
+                                    "classes": [
+                                      "product__tag"
+                                    ],
+                                    "components": [
+                                      {
+                                        "content": "Bestseller",
+                                        "type": "textnode"
+                                      }
+                                    ],
+                                    "tagName": "span",
+                                    "type": "text"
+                                  }
+                                ]
+                              },
+                              {
+                                "classes": [
+                                  "product__body"
+                                ],
+                                "components": [
+                                  {
+                                    "classes": [
+                                      "product__cat"
+                                    ],
+                                    "components": [
+                                      {
+                                        "content": "Meals",
+                                        "type": "textnode"
+                                      }
+                                    ],
+                                    "tagName": "span",
+                                    "type": "text"
+                                  },
+                                  {
+                                    "classes": [
+                                      "product__name"
+                                    ],
+                                    "components": [
+                                      {
+                                        "content": "Smokehouse Beef Burger",
+                                        "type": "textnode"
+                                      }
+                                    ],
+                                    "tagName": "h3",
+                                    "type": "text"
+                                  },
+                                  {
+                                    "classes": [
+                                      "product__desc"
+                                    ],
+                                    "components": [
+                                      {
+                                        "content": "Grass-fed patty, aged cheddar, caramelised onion and our smoked paprika sauce on a toasted brioche bun.",
+                                        "type": "textnode"
+                                      }
+                                    ],
+                                    "tagName": "p",
+                                    "type": "text"
+                                  },
+                                  {
+                                    "classes": [
+                                      "product__foot"
+                                    ],
+                                    "components": [
+                                      {
+                                        "classes": [
+                                          "product__price"
+                                        ],
+                                        "components": [
+                                          {
+                                            "content": "$12.50",
+                                            "type": "textnode"
+                                          },
+                                          {
+                                            "components": [
+                                              {
+                                                "content": "/ portion",
+                                                "type": "textnode"
+                                              }
+                                            ],
+                                            "tagName": "span",
+                                            "type": "text"
+                                          }
+                                        ],
+                                        "tagName": "span",
+                                        "type": "text"
+                                      },
+                                      {
+                                        "classes": [
+                                          "product__actions"
+                                        ],
+                                        "components": [
+                                          {
+                                            "attributes": {
+                                              "data-action": "add",
+                                              "type": "button"
+                                            },
+                                            "classes": [
+                                              "btn",
+                                              "btn--primary",
+                                              "btn--sm"
+                                            ],
+                                            "components": [
+                                              {
+                                                "content": "Add to Cart",
+                                                "type": "textnode"
+                                              }
+                                            ],
+                                            "text": "Add to Cart",
+                                            "type": "button"
+                                          },
+                                          {
+                                            "attributes": {
+                                              "data-action": "view",
+                                              "href": "#"
+                                            },
+                                            "classes": [
+                                              "btn",
+                                              "btn--ghost",
+                                              "btn--sm"
+                                            ],
+                                            "components": [
+                                              {
+                                                "content": "View Product",
+                                                "type": "textnode"
+                                              }
+                                            ],
+                                            "type": "link"
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ],
+                            "tagName": "article"
+                          },
+                          {
+                            "attributes": {
+                              "data-category": "breakfast",
+                              "data-id": "p2",
+                              "data-name": "Berry French Toast",
+                              "data-price": "10.20"
+                            },
+                            "classes": [
+                              "product"
+                            ],
+                            "components": [
+                              {
+                                "classes": [
+                                  "product__media"
+                                ],
+                                "components": [
+                                  {
+                                    "attributes": {
+                                      "alt": "Berry french toast",
+                                      "src": "https://images.unsplash.com/photo-1484723091739-30a097e8f929?auto=format&fit=crop&w=700&q=80"
+                                    },
+                                    "classes": [
+                                      "product__img"
+                                    ],
+                                    "type": "image"
+                                  },
+                                  {
+                                    "classes": [
+                                      "product__tag"
+                                    ],
+                                    "components": [
+                                      {
+                                        "content": "New",
+                                        "type": "textnode"
+                                      }
+                                    ],
+                                    "tagName": "span",
+                                    "type": "text"
+                                  }
+                                ]
+                              },
+                              {
+                                "classes": [
+                                  "product__body"
+                                ],
+                                "components": [
+                                  {
+                                    "classes": [
+                                      "product__cat"
+                                    ],
+                                    "components": [
+                                      {
+                                        "content": "Breakfast",
+                                        "type": "textnode"
+                                      }
+                                    ],
+                                    "tagName": "span",
+                                    "type": "text"
+                                  },
+                                  {
+                                    "classes": [
+                                      "product__name"
+                                    ],
+                                    "components": [
+                                      {
+                                        "content": "Berry French Toast",
+                                        "type": "textnode"
+                                      }
+                                    ],
+                                    "tagName": "h3",
+                                    "type": "text"
+                                  },
+                                  {
+                                    "classes": [
+                                      "product__desc"
+                                    ],
+                                    "components": [
+                                      {
+                                        "content": "Brioche soaked in vanilla custard, griddled golden and finished with blueberries, banana and a dusting of icing sugar.",
+                                        "type": "textnode"
+                                      }
+                                    ],
+                                    "tagName": "p",
+                                    "type": "text"
+                                  },
+                                  {
+                                    "classes": [
+                                      "product__foot"
+                                    ],
+                                    "components": [
+                                      {
+                                        "classes": [
+                                          "product__price"
+                                        ],
+                                        "components": [
+                                          {
+                                            "content": "$10.20",
+                                            "type": "textnode"
+                                          },
+                                          {
+                                            "components": [
+                                              {
+                                                "content": "/ plate",
+                                                "type": "textnode"
+                                              }
+                                            ],
+                                            "tagName": "span",
+                                            "type": "text"
+                                          }
+                                        ],
+                                        "tagName": "span",
+                                        "type": "text"
+                                      },
+                                      {
+                                        "classes": [
+                                          "product__actions"
+                                        ],
+                                        "components": [
+                                          {
+                                            "attributes": {
+                                              "data-action": "add",
+                                              "type": "button"
+                                            },
+                                            "classes": [
+                                              "btn",
+                                              "btn--primary",
+                                              "btn--sm"
+                                            ],
+                                            "components": [
+                                              {
+                                                "content": "Add to Cart",
+                                                "type": "textnode"
+                                              }
+                                            ],
+                                            "text": "Add to Cart",
+                                            "type": "button"
+                                          },
+                                          {
+                                            "attributes": {
+                                              "data-action": "view",
+                                              "href": "#"
+                                            },
+                                            "classes": [
+                                              "btn",
+                                              "btn--ghost",
+                                              "btn--sm"
+                                            ],
+                                            "components": [
+                                              {
+                                                "content": "View Product",
+                                                "type": "textnode"
+                                              }
+                                            ],
+                                            "type": "link"
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ],
+                            "tagName": "article"
+                          },
+                          {
+                            "attributes": {
+                              "data-category": "drinks",
+                              "data-id": "p3",
+                              "data-name": "House Roast Latte",
+                              "data-price": "4.80"
+                            },
+                            "classes": [
+                              "product"
+                            ],
+                            "components": [
+                              {
+                                "classes": [
+                                  "product__media"
+                                ],
+                                "components": [
+                                  {
+                                    "attributes": {
+                                      "alt": "House roast latte",
+                                      "src": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?auto=format&fit=crop&w=700&q=80"
+                                    },
+                                    "classes": [
+                                      "product__img"
+                                    ],
+                                    "type": "image"
+                                  }
+                                ]
+                              },
+                              {
+                                "classes": [
+                                  "product__body"
+                                ],
+                                "components": [
+                                  {
+                                    "classes": [
+                                      "product__cat"
+                                    ],
+                                    "components": [
+                                      {
+                                        "content": "Drinks",
+                                        "type": "textnode"
+                                      }
+                                    ],
+                                    "tagName": "span",
+                                    "type": "text"
+                                  },
+                                  {
+                                    "classes": [
+                                      "product__name"
+                                    ],
+                                    "components": [
+                                      {
+                                        "content": "House Roast Latte",
+                                        "type": "textnode"
+                                      }
+                                    ],
+                                    "tagName": "h3",
+                                    "type": "text"
+                                  },
+                                  {
+                                    "classes": [
+                                      "product__desc"
+                                    ],
+                                    "components": [
+                                      {
+                                        "content": "A double shot of our house roast pulled through silky steamed milk — the way we drink it ourselves.",
+                                        "type": "textnode"
+                                      }
+                                    ],
+                                    "tagName": "p",
+                                    "type": "text"
+                                  },
+                                  {
+                                    "classes": [
+                                      "product__foot"
+                                    ],
+                                    "components": [
+                                      {
+                                        "classes": [
+                                          "product__price"
+                                        ],
+                                        "components": [
+                                          {
+                                            "content": "$4.80",
+                                            "type": "textnode"
+                                          },
+                                          {
+                                            "components": [
+                                              {
+                                                "content": "/ cup",
+                                                "type": "textnode"
+                                              }
+                                            ],
+                                            "tagName": "span",
+                                            "type": "text"
+                                          }
+                                        ],
+                                        "tagName": "span",
+                                        "type": "text"
+                                      },
+                                      {
+                                        "classes": [
+                                          "product__actions"
+                                        ],
+                                        "components": [
+                                          {
+                                            "attributes": {
+                                              "data-action": "add",
+                                              "type": "button"
+                                            },
+                                            "classes": [
+                                              "btn",
+                                              "btn--primary",
+                                              "btn--sm"
+                                            ],
+                                            "components": [
+                                              {
+                                                "content": "Add to Cart",
+                                                "type": "textnode"
+                                              }
+                                            ],
+                                            "text": "Add to Cart",
+                                            "type": "button"
+                                          },
+                                          {
+                                            "attributes": {
+                                              "data-action": "view",
+                                              "href": "#"
+                                            },
+                                            "classes": [
+                                              "btn",
+                                              "btn--ghost",
+                                              "btn--sm"
+                                            ],
+                                            "components": [
+                                              {
+                                                "content": "View Product",
+                                                "type": "textnode"
+                                              }
+                                            ],
+                                            "type": "link"
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ],
+                            "tagName": "article"
+                          },
+                          {
+                            "attributes": {
+                              "data-category": "meals",
+                              "data-id": "p4",
+                              "data-name": "Garden Pesto Pasta",
+                              "data-price": "10.90"
+                            },
+                            "classes": [
+                              "product"
+                            ],
+                            "components": [
+                              {
+                                "classes": [
+                                  "product__media"
+                                ],
+                                "components": [
+                                  {
+                                    "attributes": {
+                                      "alt": "Garden pesto pasta",
+                                      "src": "https://images.unsplash.com/photo-1473093295043-cdd812d0e601?auto=format&fit=crop&w=700&q=80"
+                                    },
+                                    "classes": [
+                                      "product__img"
+                                    ],
+                                    "type": "image"
+                                  }
+                                ]
+                              },
+                              {
+                                "classes": [
+                                  "product__body"
+                                ],
+                                "components": [
+                                  {
+                                    "classes": [
+                                      "product__cat"
+                                    ],
+                                    "components": [
+                                      {
+                                        "content": "Meals",
+                                        "type": "textnode"
+                                      }
+                                    ],
+                                    "tagName": "span",
+                                    "type": "text"
+                                  },
+                                  {
+                                    "classes": [
+                                      "product__name"
+                                    ],
+                                    "components": [
+                                      {
+                                        "content": "Garden Pesto Pasta",
+                                        "type": "textnode"
+                                      }
+                                    ],
+                                    "tagName": "h3",
+                                    "type": "text"
+                                  },
+                                  {
+                                    "classes": [
+                                      "product__desc"
+                                    ],
+                                    "components": [
+                                      {
+                                        "content": "Farfalle tossed with basil pesto, blistered tomatoes, parmesan and toasted pine nuts.",
+                                        "type": "textnode"
+                                      }
+                                    ],
+                                    "tagName": "p",
+                                    "type": "text"
+                                  },
+                                  {
+                                    "classes": [
+                                      "product__foot"
+                                    ],
+                                    "components": [
+                                      {
+                                        "classes": [
+                                          "product__price"
+                                        ],
+                                        "components": [
+                                          {
+                                            "content": "$10.90",
+                                            "type": "textnode"
+                                          },
+                                          {
+                                            "components": [
+                                              {
+                                                "content": "/ portion",
+                                                "type": "textnode"
+                                              }
+                                            ],
+                                            "tagName": "span",
+                                            "type": "text"
+                                          }
+                                        ],
+                                        "tagName": "span",
+                                        "type": "text"
+                                      },
+                                      {
+                                        "classes": [
+                                          "product__actions"
+                                        ],
+                                        "components": [
+                                          {
+                                            "attributes": {
+                                              "data-action": "add",
+                                              "type": "button"
+                                            },
+                                            "classes": [
+                                              "btn",
+                                              "btn--primary",
+                                              "btn--sm"
+                                            ],
+                                            "components": [
+                                              {
+                                                "content": "Add to Cart",
+                                                "type": "textnode"
+                                              }
+                                            ],
+                                            "text": "Add to Cart",
+                                            "type": "button"
+                                          },
+                                          {
+                                            "attributes": {
+                                              "data-action": "view",
+                                              "href": "#"
+                                            },
+                                            "classes": [
+                                              "btn",
+                                              "btn--ghost",
+                                              "btn--sm"
+                                            ],
+                                            "components": [
+                                              {
+                                                "content": "View Product",
+                                                "type": "textnode"
+                                              }
+                                            ],
+                                            "type": "link"
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ],
+                            "tagName": "article"
+                          },
+                          {
+                            "attributes": {
+                              "data-category": "bakery",
+                              "data-id": "p5",
+                              "data-name": "Artisan Sourdough Loaf",
+                              "data-price": "6.50"
+                            },
+                            "classes": [
+                              "product"
+                            ],
+                            "components": [
+                              {
+                                "classes": [
+                                  "product__media"
+                                ],
+                                "components": [
+                                  {
+                                    "attributes": {
+                                      "alt": "Artisan sourdough loaves",
+                                      "src": "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=700&q=80"
+                                    },
+                                    "classes": [
+                                      "product__img"
+                                    ],
+                                    "type": "image"
+                                  }
+                                ]
+                              },
+                              {
+                                "classes": [
+                                  "product__body"
+                                ],
+                                "components": [
+                                  {
+                                    "classes": [
+                                      "product__cat"
+                                    ],
+                                    "components": [
+                                      {
+                                        "content": "Bakery",
+                                        "type": "textnode"
+                                      }
+                                    ],
+                                    "tagName": "span",
+                                    "type": "text"
+                                  },
+                                  {
+                                    "classes": [
+                                      "product__name"
+                                    ],
+                                    "components": [
+                                      {
+                                        "content": "Artisan Sourdough Loaf",
+                                        "type": "textnode"
+                                      }
+                                    ],
+                                    "tagName": "h3",
+                                    "type": "text"
+                                  },
+                                  {
+                                    "classes": [
+                                      "product__desc"
+                                    ],
+                                    "components": [
+                                      {
+                                        "content": "Slow-fermented for 24 hours for a crackling crust, open crumb and a gentle tang. Baked at 5am.",
+                                        "type": "textnode"
+                                      }
+                                    ],
+                                    "tagName": "p",
+                                    "type": "text"
+                                  },
+                                  {
+                                    "classes": [
+                                      "product__foot"
+                                    ],
+                                    "components": [
+                                      {
+                                        "classes": [
+                                          "product__price"
+                                        ],
+                                        "components": [
+                                          {
+                                            "content": "$6.50",
+                                            "type": "textnode"
+                                          },
+                                          {
+                                            "components": [
+                                              {
+                                                "content": "/ loaf",
+                                                "type": "textnode"
+                                              }
+                                            ],
+                                            "tagName": "span",
+                                            "type": "text"
+                                          }
+                                        ],
+                                        "tagName": "span",
+                                        "type": "text"
+                                      },
+                                      {
+                                        "classes": [
+                                          "product__actions"
+                                        ],
+                                        "components": [
+                                          {
+                                            "attributes": {
+                                              "data-action": "add",
+                                              "type": "button"
+                                            },
+                                            "classes": [
+                                              "btn",
+                                              "btn--primary",
+                                              "btn--sm"
+                                            ],
+                                            "components": [
+                                              {
+                                                "content": "Add to Cart",
+                                                "type": "textnode"
+                                              }
+                                            ],
+                                            "text": "Add to Cart",
+                                            "type": "button"
+                                          },
+                                          {
+                                            "attributes": {
+                                              "data-action": "view",
+                                              "href": "#"
+                                            },
+                                            "classes": [
+                                              "btn",
+                                              "btn--ghost",
+                                              "btn--sm"
+                                            ],
+                                            "components": [
+                                              {
+                                                "content": "View Product",
+                                                "type": "textnode"
+                                              }
+                                            ],
+                                            "type": "link"
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ],
+                            "tagName": "article"
+                          },
+                          {
+                            "attributes": {
+                              "data-category": "desserts",
+                              "data-id": "p6",
+                              "data-name": "Salted Caramel Sundae",
+                              "data-price": "7.40"
+                            },
+                            "classes": [
+                              "product"
+                            ],
+                            "components": [
+                              {
+                                "classes": [
+                                  "product__media"
+                                ],
+                                "components": [
+                                  {
+                                    "attributes": {
+                                      "alt": "Salted caramel sundae",
+                                      "src": "https://images.unsplash.com/photo-1551024506-0bccd828d307?auto=format&fit=crop&w=700&q=80"
+                                    },
+                                    "classes": [
+                                      "product__img"
+                                    ],
+                                    "type": "image"
+                                  }
+                                ]
+                              },
+                              {
+                                "classes": [
+                                  "product__body"
+                                ],
+                                "components": [
+                                  {
+                                    "classes": [
+                                      "product__cat"
+                                    ],
+                                    "components": [
+                                      {
+                                        "content": "Desserts",
+                                        "type": "textnode"
+                                      }
+                                    ],
+                                    "tagName": "span",
+                                    "type": "text"
+                                  },
+                                  {
+                                    "classes": [
+                                      "product__name"
+                                    ],
+                                    "components": [
+                                      {
+                                        "content": "Salted Caramel Sundae",
+                                        "type": "textnode"
+                                      }
+                                    ],
+                                    "tagName": "h3",
+                                    "type": "text"
+                                  },
+                                  {
+                                    "classes": [
+                                      "product__desc"
+                                    ],
+                                    "components": [
+                                      {
+                                        "content": "Vanilla bean ice cream over a warm brownie, poured with hot fudge and finished with salted caramel.",
+                                        "type": "textnode"
+                                      }
+                                    ],
+                                    "tagName": "p",
+                                    "type": "text"
+                                  },
+                                  {
+                                    "classes": [
+                                      "product__foot"
+                                    ],
+                                    "components": [
+                                      {
+                                        "classes": [
+                                          "product__price"
+                                        ],
+                                        "components": [
+                                          {
+                                            "content": "$7.40",
+                                            "type": "textnode"
+                                          },
+                                          {
+                                            "components": [
+                                              {
+                                                "content": "/ serving",
+                                                "type": "textnode"
+                                              }
+                                            ],
+                                            "tagName": "span",
+                                            "type": "text"
+                                          }
+                                        ],
+                                        "tagName": "span",
+                                        "type": "text"
+                                      },
+                                      {
+                                        "classes": [
+                                          "product__actions"
+                                        ],
+                                        "components": [
+                                          {
+                                            "attributes": {
+                                              "data-action": "add",
+                                              "type": "button"
+                                            },
+                                            "classes": [
+                                              "btn",
+                                              "btn--primary",
+                                              "btn--sm"
+                                            ],
+                                            "components": [
+                                              {
+                                                "content": "Add to Cart",
+                                                "type": "textnode"
+                                              }
+                                            ],
+                                            "text": "Add to Cart",
+                                            "type": "button"
+                                          },
+                                          {
+                                            "attributes": {
+                                              "data-action": "view",
+                                              "href": "#"
+                                            },
+                                            "classes": [
+                                              "btn",
+                                              "btn--ghost",
+                                              "btn--sm"
+                                            ],
+                                            "components": [
+                                              {
+                                                "content": "View Product",
+                                                "type": "textnode"
+                                              }
+                                            ],
+                                            "type": "link"
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ],
+                            "tagName": "article"
+                          },
+                          {
+                            "attributes": {
+                              "data-category": "meals",
+                              "data-id": "p7",
+                              "data-name": "Harvest Grain Bowl",
+                              "data-price": "11.40"
+                            },
+                            "classes": [
+                              "product"
+                            ],
+                            "components": [
+                              {
+                                "classes": [
+                                  "product__media"
+                                ],
+                                "components": [
+                                  {
+                                    "attributes": {
+                                      "alt": "Harvest grain bowl",
+                                      "src": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=700&q=80"
+                                    },
+                                    "classes": [
+                                      "product__img"
+                                    ],
+                                    "type": "image"
+                                  }
+                                ]
+                              },
+                              {
+                                "classes": [
+                                  "product__body"
+                                ],
+                                "components": [
+                                  {
+                                    "classes": [
+                                      "product__cat"
+                                    ],
+                                    "components": [
+                                      {
+                                        "content": "Meals",
+                                        "type": "textnode"
+                                      }
+                                    ],
+                                    "tagName": "span",
+                                    "type": "text"
+                                  },
+                                  {
+                                    "classes": [
+                                      "product__name"
+                                    ],
+                                    "components": [
+                                      {
+                                        "content": "Harvest Grain Bowl",
+                                        "type": "textnode"
+                                      }
+                                    ],
+                                    "tagName": "h3",
+                                    "type": "text"
+                                  },
+                                  {
+                                    "classes": [
+                                      "product__desc"
+                                    ],
+                                    "components": [
+                                      {
+                                        "content": "Roasted chickpeas, greens, pickled onion and lemon tahini dressing over ancient grains.",
+                                        "type": "textnode"
+                                      }
+                                    ],
+                                    "tagName": "p",
+                                    "type": "text"
+                                  },
+                                  {
+                                    "classes": [
+                                      "product__foot"
+                                    ],
+                                    "components": [
+                                      {
+                                        "classes": [
+                                          "product__price"
+                                        ],
+                                        "components": [
+                                          {
+                                            "content": "$11.40",
+                                            "type": "textnode"
+                                          },
+                                          {
+                                            "components": [
+                                              {
+                                                "content": "/ bowl",
+                                                "type": "textnode"
+                                              }
+                                            ],
+                                            "tagName": "span",
+                                            "type": "text"
+                                          }
+                                        ],
+                                        "tagName": "span",
+                                        "type": "text"
+                                      },
+                                      {
+                                        "classes": [
+                                          "product__actions"
+                                        ],
+                                        "components": [
+                                          {
+                                            "attributes": {
+                                              "data-action": "add",
+                                              "type": "button"
+                                            },
+                                            "classes": [
+                                              "btn",
+                                              "btn--primary",
+                                              "btn--sm"
+                                            ],
+                                            "components": [
+                                              {
+                                                "content": "Add to Cart",
+                                                "type": "textnode"
+                                              }
+                                            ],
+                                            "text": "Add to Cart",
+                                            "type": "button"
+                                          },
+                                          {
+                                            "attributes": {
+                                              "data-action": "view",
+                                              "href": "#"
+                                            },
+                                            "classes": [
+                                              "btn",
+                                              "btn--ghost",
+                                              "btn--sm"
+                                            ],
+                                            "components": [
+                                              {
+                                                "content": "View Product",
+                                                "type": "textnode"
+                                              }
+                                            ],
+                                            "type": "link"
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ],
+                            "tagName": "article"
+                          },
+                          {
+                            "attributes": {
+                              "data-category": "breakfast",
+                              "data-id": "p8",
+                              "data-name": "Avocado Toast Plate",
+                              "data-price": "9.50"
+                            },
+                            "classes": [
+                              "product"
+                            ],
+                            "components": [
+                              {
+                                "classes": [
+                                  "product__media"
+                                ],
+                                "components": [
+                                  {
+                                    "attributes": {
+                                      "alt": "Avocado toast plate",
+                                      "src": "https://images.unsplash.com/photo-1482049016688-2d3e1b311543?auto=format&fit=crop&w=700&q=80"
+                                    },
+                                    "classes": [
+                                      "product__img"
+                                    ],
+                                    "type": "image"
+                                  }
+                                ]
+                              },
+                              {
+                                "classes": [
+                                  "product__body"
+                                ],
+                                "components": [
+                                  {
+                                    "classes": [
+                                      "product__cat"
+                                    ],
+                                    "components": [
+                                      {
+                                        "content": "Breakfast",
+                                        "type": "textnode"
+                                      }
+                                    ],
+                                    "tagName": "span",
+                                    "type": "text"
+                                  },
+                                  {
+                                    "classes": [
+                                      "product__name"
+                                    ],
+                                    "components": [
+                                      {
+                                        "content": "Avocado Toast Plate",
+                                        "type": "textnode"
+                                      }
+                                    ],
+                                    "tagName": "h3",
+                                    "type": "text"
+                                  },
+                                  {
+                                    "classes": [
+                                      "product__desc"
+                                    ],
+                                    "components": [
+                                      {
+                                        "content": "Thick-cut sourdough, smashed avocado, chilli flakes and a soft-poached egg with lemon oil.",
+                                        "type": "textnode"
+                                      }
+                                    ],
+                                    "tagName": "p",
+                                    "type": "text"
+                                  },
+                                  {
+                                    "classes": [
+                                      "product__foot"
+                                    ],
+                                    "components": [
+                                      {
+                                        "classes": [
+                                          "product__price"
+                                        ],
+                                        "components": [
+                                          {
+                                            "content": "$9.50",
+                                            "type": "textnode"
+                                          },
+                                          {
+                                            "components": [
+                                              {
+                                                "content": "/ plate",
+                                                "type": "textnode"
+                                              }
+                                            ],
+                                            "tagName": "span",
+                                            "type": "text"
+                                          }
+                                        ],
+                                        "tagName": "span",
+                                        "type": "text"
+                                      },
+                                      {
+                                        "classes": [
+                                          "product__actions"
+                                        ],
+                                        "components": [
+                                          {
+                                            "attributes": {
+                                              "data-action": "add",
+                                              "type": "button"
+                                            },
+                                            "classes": [
+                                              "btn",
+                                              "btn--primary",
+                                              "btn--sm"
+                                            ],
+                                            "components": [
+                                              {
+                                                "content": "Add to Cart",
+                                                "type": "textnode"
+                                              }
+                                            ],
+                                            "text": "Add to Cart",
+                                            "type": "button"
+                                          },
+                                          {
+                                            "attributes": {
+                                              "data-action": "view",
+                                              "href": "#"
+                                            },
+                                            "classes": [
+                                              "btn",
+                                              "btn--ghost",
+                                              "btn--sm"
+                                            ],
+                                            "components": [
+                                              {
+                                                "content": "View Product",
+                                                "type": "textnode"
+                                              }
+                                            ],
+                                            "type": "link"
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ],
+                            "tagName": "article"
+                          },
+                          {
+                            "attributes": {
+                              "data-category": "drinks",
+                              "data-id": "p9",
+                              "data-name": "Berry Citrus Cooler",
+                              "data-price": "5.80"
+                            },
+                            "classes": [
+                              "product"
+                            ],
+                            "components": [
+                              {
+                                "classes": [
+                                  "product__media"
+                                ],
+                                "components": [
+                                  {
+                                    "attributes": {
+                                      "alt": "Berry citrus cooler",
+                                      "src": "https://images.unsplash.com/photo-1497534446932-c925b458314e?auto=format&fit=crop&w=700&q=80"
+                                    },
+                                    "classes": [
+                                      "product__img"
+                                    ],
+                                    "type": "image"
+                                  }
+                                ]
+                              },
+                              {
+                                "classes": [
+                                  "product__body"
+                                ],
+                                "components": [
+                                  {
+                                    "classes": [
+                                      "product__cat"
+                                    ],
+                                    "components": [
+                                      {
+                                        "content": "Drinks",
+                                        "type": "textnode"
+                                      }
+                                    ],
+                                    "tagName": "span",
+                                    "type": "text"
+                                  },
+                                  {
+                                    "classes": [
+                                      "product__name"
+                                    ],
+                                    "components": [
+                                      {
+                                        "content": "Berry Citrus Cooler",
+                                        "type": "textnode"
+                                      }
+                                    ],
+                                    "tagName": "h3",
+                                    "type": "text"
+                                  },
+                                  {
+                                    "classes": [
+                                      "product__desc"
+                                    ],
+                                    "components": [
+                                      {
+                                        "content": "Muddled berries, fresh citrus and a splash of sparkling water poured over crushed ice.",
+                                        "type": "textnode"
+                                      }
+                                    ],
+                                    "tagName": "p",
+                                    "type": "text"
+                                  },
+                                  {
+                                    "classes": [
+                                      "product__foot"
+                                    ],
+                                    "components": [
+                                      {
+                                        "classes": [
+                                          "product__price"
+                                        ],
+                                        "components": [
+                                          {
+                                            "content": "$5.80",
+                                            "type": "textnode"
+                                          },
+                                          {
+                                            "components": [
+                                              {
+                                                "content": "/ bottle",
+                                                "type": "textnode"
+                                              }
+                                            ],
+                                            "tagName": "span",
+                                            "type": "text"
+                                          }
+                                        ],
+                                        "tagName": "span",
+                                        "type": "text"
+                                      },
+                                      {
+                                        "classes": [
+                                          "product__actions"
+                                        ],
+                                        "components": [
+                                          {
+                                            "attributes": {
+                                              "data-action": "add",
+                                              "type": "button"
+                                            },
+                                            "classes": [
+                                              "btn",
+                                              "btn--primary",
+                                              "btn--sm"
+                                            ],
+                                            "components": [
+                                              {
+                                                "content": "Add to Cart",
+                                                "type": "textnode"
+                                              }
+                                            ],
+                                            "text": "Add to Cart",
+                                            "type": "button"
+                                          },
+                                          {
+                                            "attributes": {
+                                              "data-action": "view",
+                                              "href": "#"
+                                            },
+                                            "classes": [
+                                              "btn",
+                                              "btn--ghost",
+                                              "btn--sm"
+                                            ],
+                                            "components": [
+                                              {
+                                                "content": "View Product",
+                                                "type": "textnode"
+                                              }
+                                            ],
+                                            "type": "link"
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ],
+                            "tagName": "article"
+                          },
+                          {
+                            "attributes": {
+                              "data-category": "breakfast",
+                              "data-id": "p10",
+                              "data-name": "Honey Stack Pancakes",
+                              "data-price": "9.20"
+                            },
+                            "classes": [
+                              "product"
+                            ],
+                            "components": [
+                              {
+                                "classes": [
+                                  "product__media"
+                                ],
+                                "components": [
+                                  {
+                                    "attributes": {
+                                      "alt": "Honey stack pancakes",
+                                      "src": "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?auto=format&fit=crop&w=700&q=80"
+                                    },
+                                    "classes": [
+                                      "product__img"
+                                    ],
+                                    "type": "image"
+                                  }
+                                ]
+                              },
+                              {
+                                "classes": [
+                                  "product__body"
+                                ],
+                                "components": [
+                                  {
+                                    "classes": [
+                                      "product__cat"
+                                    ],
+                                    "components": [
+                                      {
+                                        "content": "Breakfast",
+                                        "type": "textnode"
+                                      }
+                                    ],
+                                    "tagName": "span",
+                                    "type": "text"
+                                  },
+                                  {
+                                    "classes": [
+                                      "product__name"
+                                    ],
+                                    "components": [
+                                      {
+                                        "content": "Honey Stack Pancakes",
+                                        "type": "textnode"
+                                      }
+                                    ],
+                                    "tagName": "h3",
+                                    "type": "text"
+                                  },
+                                  {
+                                    "classes": [
+                                      "product__desc"
+                                    ],
+                                    "components": [
+                                      {
+                                        "content": "Buttermilk pancakes stacked with wild honey, banana and a knob of toasted butter.",
+                                        "type": "textnode"
+                                      }
+                                    ],
+                                    "tagName": "p",
+                                    "type": "text"
+                                  },
+                                  {
+                                    "classes": [
+                                      "product__foot"
+                                    ],
+                                    "components": [
+                                      {
+                                        "classes": [
+                                          "product__price"
+                                        ],
+                                        "components": [
+                                          {
+                                            "content": "$9.20",
+                                            "type": "textnode"
+                                          },
+                                          {
+                                            "components": [
+                                              {
+                                                "content": "/ stack",
+                                                "type": "textnode"
+                                              }
+                                            ],
+                                            "tagName": "span",
+                                            "type": "text"
+                                          }
+                                        ],
+                                        "tagName": "span",
+                                        "type": "text"
+                                      },
+                                      {
+                                        "classes": [
+                                          "product__actions"
+                                        ],
+                                        "components": [
+                                          {
+                                            "attributes": {
+                                              "data-action": "add",
+                                              "type": "button"
+                                            },
+                                            "classes": [
+                                              "btn",
+                                              "btn--primary",
+                                              "btn--sm"
+                                            ],
+                                            "components": [
+                                              {
+                                                "content": "Add to Cart",
+                                                "type": "textnode"
+                                              }
+                                            ],
+                                            "text": "Add to Cart",
+                                            "type": "button"
+                                          },
+                                          {
+                                            "attributes": {
+                                              "data-action": "view",
+                                              "href": "#"
+                                            },
+                                            "classes": [
+                                              "btn",
+                                              "btn--ghost",
+                                              "btn--sm"
+                                            ],
+                                            "components": [
+                                              {
+                                                "content": "View Product",
+                                                "type": "textnode"
+                                              }
+                                            ],
+                                            "type": "link"
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ],
+                            "tagName": "article"
+                          },
+                          {
+                            "attributes": {
+                              "data-category": "meals",
+                              "data-id": "p11",
+                              "data-name": "Sunshine Protein Bowl",
+                              "data-price": "11.90"
+                            },
+                            "classes": [
+                              "product"
+                            ],
+                            "components": [
+                              {
+                                "classes": [
+                                  "product__media"
+                                ],
+                                "components": [
+                                  {
+                                    "attributes": {
+                                      "alt": "Sunshine protein bowl",
+                                      "src": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=700&q=80"
+                                    },
+                                    "classes": [
+                                      "product__img"
+                                    ],
+                                    "type": "image"
+                                  },
+                                  {
+                                    "classes": [
+                                      "product__tag"
+                                    ],
+                                    "components": [
+                                      {
+                                        "content": "New",
+                                        "type": "textnode"
+                                      }
+                                    ],
+                                    "tagName": "span",
+                                    "type": "text"
+                                  }
+                                ]
+                              },
+                              {
+                                "classes": [
+                                  "product__body"
+                                ],
+                                "components": [
+                                  {
+                                    "classes": [
+                                      "product__cat"
+                                    ],
+                                    "components": [
+                                      {
+                                        "content": "Meals",
+                                        "type": "textnode"
+                                      }
+                                    ],
+                                    "tagName": "span",
+                                    "type": "text"
+                                  },
+                                  {
+                                    "classes": [
+                                      "product__name"
+                                    ],
+                                    "components": [
+                                      {
+                                        "content": "Sunshine Protein Bowl",
+                                        "type": "textnode"
+                                      }
+                                    ],
+                                    "tagName": "h3",
+                                    "type": "text"
+                                  },
+                                  {
+                                    "classes": [
+                                      "product__desc"
+                                    ],
+                                    "components": [
+                                      {
+                                        "content": "Grilled chicken, crisp greens, corn, tomato and a soft egg dressed with house vinaigrette.",
+                                        "type": "textnode"
+                                      }
+                                    ],
+                                    "tagName": "p",
+                                    "type": "text"
+                                  },
+                                  {
+                                    "classes": [
+                                      "product__foot"
+                                    ],
+                                    "components": [
+                                      {
+                                        "classes": [
+                                          "product__price"
+                                        ],
+                                        "components": [
+                                          {
+                                            "content": "$11.90",
+                                            "type": "textnode"
+                                          },
+                                          {
+                                            "components": [
+                                              {
+                                                "content": "/ bowl",
+                                                "type": "textnode"
+                                              }
+                                            ],
+                                            "tagName": "span",
+                                            "type": "text"
+                                          }
+                                        ],
+                                        "tagName": "span",
+                                        "type": "text"
+                                      },
+                                      {
+                                        "classes": [
+                                          "product__actions"
+                                        ],
+                                        "components": [
+                                          {
+                                            "attributes": {
+                                              "data-action": "add",
+                                              "type": "button"
+                                            },
+                                            "classes": [
+                                              "btn",
+                                              "btn--primary",
+                                              "btn--sm"
+                                            ],
+                                            "components": [
+                                              {
+                                                "content": "Add to Cart",
+                                                "type": "textnode"
+                                              }
+                                            ],
+                                            "text": "Add to Cart",
+                                            "type": "button"
+                                          },
+                                          {
+                                            "attributes": {
+                                              "data-action": "view",
+                                              "href": "#"
+                                            },
+                                            "classes": [
+                                              "btn",
+                                              "btn--ghost",
+                                              "btn--sm"
+                                            ],
+                                            "components": [
+                                              {
+                                                "content": "View Product",
+                                                "type": "textnode"
+                                              }
+                                            ],
+                                            "type": "link"
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ],
+                            "tagName": "article"
+                          },
+                          {
+                            "attributes": {
+                              "data-category": "drinks",
+                              "data-id": "p12",
+                              "data-name": "Cold Pressed Orange Juice",
+                              "data-price": "5.50"
+                            },
+                            "classes": [
+                              "product"
+                            ],
+                            "components": [
+                              {
+                                "classes": [
+                                  "product__media"
+                                ],
+                                "components": [
+                                  {
+                                    "attributes": {
+                                      "alt": "Cold pressed orange juice",
+                                      "src": "https://images.unsplash.com/photo-1600271886742-f049cd451bba?auto=format&fit=crop&w=700&q=80"
+                                    },
+                                    "classes": [
+                                      "product__img"
+                                    ],
+                                    "type": "image"
+                                  }
+                                ]
+                              },
+                              {
+                                "classes": [
+                                  "product__body"
+                                ],
+                                "components": [
+                                  {
+                                    "classes": [
+                                      "product__cat"
+                                    ],
+                                    "components": [
+                                      {
+                                        "content": "Drinks",
+                                        "type": "textnode"
+                                      }
+                                    ],
+                                    "tagName": "span",
+                                    "type": "text"
+                                  },
+                                  {
+                                    "classes": [
+                                      "product__name"
+                                    ],
+                                    "components": [
+                                      {
+                                        "content": "Cold Pressed Orange Juice",
+                                        "type": "textnode"
+                                      }
+                                    ],
+                                    "tagName": "h3",
+                                    "type": "text"
+                                  },
+                                  {
+                                    "classes": [
+                                      "product__desc"
+                                    ],
+                                    "components": [
+                                      {
+                                        "content": "Valencia oranges pressed every morning — nothing added, nothing taken away.",
+                                        "type": "textnode"
+                                      }
+                                    ],
+                                    "tagName": "p",
+                                    "type": "text"
+                                  },
+                                  {
+                                    "classes": [
+                                      "product__foot"
+                                    ],
+                                    "components": [
+                                      {
+                                        "classes": [
+                                          "product__price"
+                                        ],
+                                        "components": [
+                                          {
+                                            "content": "$5.50",
+                                            "type": "textnode"
+                                          },
+                                          {
+                                            "components": [
+                                              {
+                                                "content": "/ bottle",
+                                                "type": "textnode"
+                                              }
+                                            ],
+                                            "tagName": "span",
+                                            "type": "text"
+                                          }
+                                        ],
+                                        "tagName": "span",
+                                        "type": "text"
+                                      },
+                                      {
+                                        "classes": [
+                                          "product__actions"
+                                        ],
+                                        "components": [
+                                          {
+                                            "attributes": {
+                                              "data-action": "add",
+                                              "type": "button"
+                                            },
+                                            "classes": [
+                                              "btn",
+                                              "btn--primary",
+                                              "btn--sm"
+                                            ],
+                                            "components": [
+                                              {
+                                                "content": "Add to Cart",
+                                                "type": "textnode"
+                                              }
+                                            ],
+                                            "text": "Add to Cart",
+                                            "type": "button"
+                                          },
+                                          {
+                                            "attributes": {
+                                              "data-action": "view",
+                                              "href": "#"
+                                            },
+                                            "classes": [
+                                              "btn",
+                                              "btn--ghost",
+                                              "btn--sm"
+                                            ],
+                                            "components": [
+                                              {
+                                                "content": "View Product",
+                                                "type": "textnode"
+                                              }
+                                            ],
+                                            "type": "link"
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ],
+                            "tagName": "article"
+                          }
+                        ]
+                      },
+                      {
+                        "attributes": {
+                          "hidden": true,
+                          "id": "shop-empty"
+                        },
+                        "classes": [
+                          "shop-empty"
+                        ],
+                        "components": [
+                          {
+                            "classes": [
+                              "shop-empty__icon"
+                            ],
+                            "components": [
+                              {
+                                "attributes": {
+                                  "aria-hidden": "true",
+                                  "fill": "none",
+                                  "stroke": "currentColor",
+                                  "stroke-linecap": "round",
+                                  "stroke-linejoin": "round",
+                                  "stroke-width": "1.8",
+                                  "viewBox": "0 0 24 24"
+                                },
+                                "components": [
+                                  {
+                                    "attributes": {
+                                      "cx": "11",
+                                      "cy": "11",
+                                      "r": "8"
+                                    },
+                                    "resizable": {
+                                      "ratioDefault": true
+                                    },
+                                    "tagName": "circle",
+                                    "type": "svg-in"
+                                  },
+                                  {
+                                    "attributes": {
+                                      "x1": "21",
+                                      "x2": "16.65",
+                                      "y1": "21",
+                                      "y2": "16.65"
+                                    },
+                                    "resizable": {
+                                      "ratioDefault": true
+                                    },
+                                    "tagName": "line",
+                                    "type": "svg-in"
+                                  },
+                                  {
+                                    "attributes": {
+                                      "d": "M8.5 11h5"
+                                    },
+                                    "resizable": {
+                                      "ratioDefault": true
+                                    },
+                                    "tagName": "path",
+                                    "type": "svg-in"
+                                  }
+                                ],
+                                "resizable": {
+                                  "ratioDefault": true
+                                },
+                                "type": "svg"
+                              }
+                            ],
+                            "tagName": "span"
+                          },
+                          {
+                            "classes": [
+                              "shop-empty__title"
+                            ],
+                            "components": [
+                              {
+                                "content": "No products found",
+                                "type": "textnode"
+                              }
+                            ],
+                            "tagName": "h3",
+                            "type": "text"
+                          },
+                          {
+                            "classes": [
+                              "shop-empty__text"
+                            ],
+                            "components": [
+                              {
+                                "content": "We couldn't find anything matching your search. Try a different keyword, or clear your search and filters to see the whole menu.",
+                                "type": "textnode"
+                              }
+                            ],
+                            "tagName": "p",
+                            "type": "text"
+                          },
+                          {
+                            "attributes": {
+                              "id": "shop-reset",
+                              "type": "button"
+                            },
+                            "classes": [
+                              "btn",
+                              "btn--ghost",
+                              "btn--sm"
+                            ],
+                            "components": [
+                              {
+                                "content": "Clear search & filters",
+                                "type": "textnode"
+                              }
+                            ],
+                            "text": "Clear search & filters",
+                            "type": "button"
+                          }
+                        ]
+                      },
+                      {
+                        "attributes": {
+                          "id": "shop-more"
+                        },
+                        "classes": [
+                          "shop-more"
+                        ],
+                        "components": [
+                          {
+                            "attributes": {
+                              "id": "shop-count"
+                            },
+                            "classes": [
+                              "shop-more__count"
+                            ],
+                            "components": [
+                              {
+                                "content": "Showing 6 of 12 products",
+                                "type": "textnode"
+                              }
+                            ],
+                            "tagName": "p",
+                            "type": "text"
+                          },
+                          {
+                            "attributes": {
+                              "id": "shop-load-more",
+                              "type": "button"
+                            },
+                            "classes": [
+                              "btn",
+                              "btn--ghost"
+                            ],
+                            "components": [
+                              {
+                                "content": "Load more products",
+                                "type": "textnode"
+                              }
+                            ],
+                            "text": "Load more products",
+                            "type": "button"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "tagName": "section"
+              }
+            ],
+            "tagName": "main"
+          },
+          {
+            "classes": [
+              "footer"
+            ],
+            "components": [
+              {
+                "classes": [
+                  "container"
+                ],
+                "components": [
+                  {
+                    "classes": [
+                      "footer__top"
+                    ],
+                    "components": [
+                      {
+                        "classes": [
+                          "footer__brand"
+                        ],
+                        "components": [
+                          {
+                            "attributes": {
+                              "href": "./"
+                            },
+                            "classes": [
+                              "logo"
+                            ],
+                            "components": [
+                              {
+                                "classes": [
+                                  "logo__mark"
+                                ],
+                                "components": [
+                                  {
+                                    "content": "H",
+                                    "type": "textnode"
+                                  }
+                                ],
+                                "tagName": "span",
+                                "type": "text"
+                              },
+                              {
+                                "classes": [
+                                  "logo__name"
+                                ],
+                                "components": [
+                                  {
+                                    "classes": [
+                                      "logo__title"
+                                    ],
+                                    "components": [
+                                      {
+                                        "content": "Hearth & Harvest",
+                                        "type": "textnode"
+                                      }
+                                    ],
+                                    "tagName": "span",
+                                    "type": "text"
+                                  },
+                                  {
+                                    "classes": [
+                                      "logo__tag"
+                                    ],
+                                    "components": [
+                                      {
+                                        "content": "Kitchen & Grocery",
+                                        "type": "textnode"
+                                      }
+                                    ],
+                                    "tagName": "span",
+                                    "type": "text"
+                                  }
+                                ],
+                                "tagName": "span"
+                              }
+                            ],
+                            "editable": false,
+                            "type": "link"
+                          },
+                          {
+                            "classes": [
+                              "footer__desc"
+                            ],
+                            "components": [
+                              {
+                                "content": "A small-batch kitchen and grocery store. We cook fresh meals, snacks, drinks and desserts every morning and deliver them across the city.",
+                                "type": "textnode"
+                              }
+                            ],
+                            "tagName": "p",
+                            "type": "text"
+                          },
+                          {
+                            "classes": [
+                              "socials"
+                            ],
+                            "components": [
+                              {
+                                "attributes": {
+                                  "aria-label": "Facebook",
+                                  "href": "#"
+                                },
+                                "classes": [
+                                  "social"
+                                ],
+                                "components": [
+                                  {
+                                    "attributes": {
+                                      "aria-hidden": "true",
+                                      "fill": "none",
+                                      "stroke": "currentColor",
+                                      "stroke-linecap": "round",
+                                      "stroke-linejoin": "round",
+                                      "stroke-width": "2",
+                                      "viewBox": "0 0 24 24"
+                                    },
+                                    "components": [
+                                      {
+                                        "attributes": {
+                                          "d": "M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"
+                                        },
+                                        "resizable": {
+                                          "ratioDefault": true
+                                        },
+                                        "tagName": "path",
+                                        "type": "svg-in"
+                                      }
+                                    ],
+                                    "resizable": {
+                                      "ratioDefault": true
+                                    },
+                                    "type": "svg"
+                                  }
+                                ],
+                                "editable": false,
+                                "type": "link"
+                              },
+                              {
+                                "attributes": {
+                                  "aria-label": "Instagram",
+                                  "href": "#"
+                                },
+                                "classes": [
+                                  "social"
+                                ],
+                                "components": [
+                                  {
+                                    "attributes": {
+                                      "aria-hidden": "true",
+                                      "fill": "none",
+                                      "stroke": "currentColor",
+                                      "stroke-linecap": "round",
+                                      "stroke-linejoin": "round",
+                                      "stroke-width": "2",
+                                      "viewBox": "0 0 24 24"
+                                    },
+                                    "components": [
+                                      {
+                                        "attributes": {
+                                          "height": "20",
+                                          "rx": "5",
+                                          "ry": "5",
+                                          "width": "20",
+                                          "x": "2",
+                                          "y": "2"
+                                        },
+                                        "resizable": {
+                                          "ratioDefault": true
+                                        },
+                                        "tagName": "rect",
+                                        "type": "svg-in"
+                                      },
+                                      {
+                                        "attributes": {
+                                          "d": "M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"
+                                        },
+                                        "resizable": {
+                                          "ratioDefault": true
+                                        },
+                                        "tagName": "path",
+                                        "type": "svg-in"
+                                      },
+                                      {
+                                        "attributes": {
+                                          "x1": "17.5",
+                                          "x2": "17.51",
+                                          "y1": "6.5",
+                                          "y2": "6.5"
+                                        },
+                                        "resizable": {
+                                          "ratioDefault": true
+                                        },
+                                        "tagName": "line",
+                                        "type": "svg-in"
+                                      }
+                                    ],
+                                    "resizable": {
+                                      "ratioDefault": true
+                                    },
+                                    "type": "svg"
+                                  }
+                                ],
+                                "editable": false,
+                                "type": "link"
+                              },
+                              {
+                                "attributes": {
+                                  "aria-label": "Twitter",
+                                  "href": "#"
+                                },
+                                "classes": [
+                                  "social"
+                                ],
+                                "components": [
+                                  {
+                                    "attributes": {
+                                      "aria-hidden": "true",
+                                      "fill": "none",
+                                      "stroke": "currentColor",
+                                      "stroke-linecap": "round",
+                                      "stroke-linejoin": "round",
+                                      "stroke-width": "2",
+                                      "viewBox": "0 0 24 24"
+                                    },
+                                    "components": [
+                                      {
+                                        "attributes": {
+                                          "d": "M23 3a10.9 10.9 0 0 1-3.14 1.53 4.48 4.48 0 0 0-7.86 3v1A10.66 10.66 0 0 1 3 4s-4 9 5 13a11.64 11.64 0 0 1-7 2c9 5 20 0 20-11.5a4.5 4.5 0 0 0-.08-.83A7.72 7.72 0 0 0 23 3z"
+                                        },
+                                        "resizable": {
+                                          "ratioDefault": true
+                                        },
+                                        "tagName": "path",
+                                        "type": "svg-in"
+                                      }
+                                    ],
+                                    "resizable": {
+                                      "ratioDefault": true
+                                    },
+                                    "type": "svg"
+                                  }
+                                ],
+                                "editable": false,
+                                "type": "link"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "classes": [
+                          "footer__col"
+                        ],
+                        "components": [
+                          {
+                            "classes": [
+                              "footer__title"
+                            ],
+                            "components": [
+                              {
+                                "content": "Shop",
+                                "type": "textnode"
+                              }
+                            ],
+                            "tagName": "h4",
+                            "type": "text"
+                          },
+                          {
+                            "classes": [
+                              "footer__links"
+                            ],
+                            "components": [
+                              {
+                                "components": [
+                                  {
+                                    "attributes": {
+                                      "href": "./shop.html"
+                                    },
+                                    "components": [
+                                      {
+                                        "content": "All Products",
+                                        "type": "textnode"
+                                      }
+                                    ],
+                                    "type": "link"
+                                  }
+                                ],
+                                "tagName": "li"
+                              },
+                              {
+                                "components": [
+                                  {
+                                    "attributes": {
+                                      "href": "./shop.html"
+                                    },
+                                    "components": [
+                                      {
+                                        "content": "Meals",
+                                        "type": "textnode"
+                                      }
+                                    ],
+                                    "type": "link"
+                                  }
+                                ],
+                                "tagName": "li"
+                              },
+                              {
+                                "components": [
+                                  {
+                                    "attributes": {
+                                      "href": "./shop.html"
+                                    },
+                                    "components": [
+                                      {
+                                        "content": "Snacks",
+                                        "type": "textnode"
+                                      }
+                                    ],
+                                    "type": "link"
+                                  }
+                                ],
+                                "tagName": "li"
+                              },
+                              {
+                                "components": [
+                                  {
+                                    "attributes": {
+                                      "href": "./shop.html"
+                                    },
+                                    "components": [
+                                      {
+                                        "content": "Drinks",
+                                        "type": "textnode"
+                                      }
+                                    ],
+                                    "type": "link"
+                                  }
+                                ],
+                                "tagName": "li"
+                              },
+                              {
+                                "components": [
+                                  {
+                                    "attributes": {
+                                      "href": "./shop.html"
+                                    },
+                                    "components": [
+                                      {
+                                        "content": "Desserts",
+                                        "type": "textnode"
+                                      }
+                                    ],
+                                    "type": "link"
+                                  }
+                                ],
+                                "tagName": "li"
+                              }
+                            ],
+                            "tagName": "ul"
+                          }
+                        ]
+                      },
+                      {
+                        "classes": [
+                          "footer__col"
+                        ],
+                        "components": [
+                          {
+                            "classes": [
+                              "footer__title"
+                            ],
+                            "components": [
+                              {
+                                "content": "Company",
+                                "type": "textnode"
+                              }
+                            ],
+                            "tagName": "h4",
+                            "type": "text"
+                          },
+                          {
+                            "classes": [
+                              "footer__links"
+                            ],
+                            "components": [
+                              {
+                                "components": [
+                                  {
+                                    "attributes": {
+                                      "href": "./#about"
+                                    },
+                                    "components": [
+                                      {
+                                        "content": "About Us",
+                                        "type": "textnode"
+                                      }
+                                    ],
+                                    "type": "link"
+                                  }
+                                ],
+                                "tagName": "li"
+                              },
+                              {
+                                "components": [
+                                  {
+                                    "attributes": {
+                                      "href": "#"
+                                    },
+                                    "components": [
+                                      {
+                                        "content": "Our Kitchen",
+                                        "type": "textnode"
+                                      }
+                                    ],
+                                    "type": "link"
+                                  }
+                                ],
+                                "tagName": "li"
+                              },
+                              {
+                                "components": [
+                                  {
+                                    "attributes": {
+                                      "href": "#"
+                                    },
+                                    "components": [
+                                      {
+                                        "content": "Careers",
+                                        "type": "textnode"
+                                      }
+                                    ],
+                                    "type": "link"
+                                  }
+                                ],
+                                "tagName": "li"
+                              },
+                              {
+                                "components": [
+                                  {
+                                    "attributes": {
+                                      "href": "#"
+                                    },
+                                    "components": [
+                                      {
+                                        "content": "Blog",
+                                        "type": "textnode"
+                                      }
+                                    ],
+                                    "type": "link"
+                                  }
+                                ],
+                                "tagName": "li"
+                              },
+                              {
+                                "components": [
+                                  {
+                                    "attributes": {
+                                      "href": "#"
+                                    },
+                                    "components": [
+                                      {
+                                        "content": "FAQs",
+                                        "type": "textnode"
+                                      }
+                                    ],
+                                    "type": "link"
+                                  }
+                                ],
+                                "tagName": "li"
+                              }
+                            ],
+                            "tagName": "ul"
+                          }
+                        ]
+                      },
+                      {
+                        "classes": [
+                          "footer__col"
+                        ],
+                        "components": [
+                          {
+                            "classes": [
+                              "footer__title"
+                            ],
+                            "components": [
+                              {
+                                "content": "Contact",
+                                "type": "textnode"
+                              }
+                            ],
+                            "tagName": "h4",
+                            "type": "text"
+                          },
+                          {
+                            "classes": [
+                              "footer__contact"
+                            ],
+                            "components": [
+                              {
+                                "components": [
+                                  {
+                                    "attributes": {
+                                      "aria-hidden": "true",
+                                      "fill": "none",
+                                      "stroke": "currentColor",
+                                      "stroke-linecap": "round",
+                                      "stroke-linejoin": "round",
+                                      "stroke-width": "2",
+                                      "viewBox": "0 0 24 24"
+                                    },
+                                    "components": [
+                                      {
+                                        "attributes": {
+                                          "d": "M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"
+                                        },
+                                        "resizable": {
+                                          "ratioDefault": true
+                                        },
+                                        "tagName": "path",
+                                        "type": "svg-in"
+                                      },
+                                      {
+                                        "attributes": {
+                                          "cx": "12",
+                                          "cy": "10",
+                                          "r": "3"
+                                        },
+                                        "resizable": {
+                                          "ratioDefault": true
+                                        },
+                                        "tagName": "circle",
+                                        "type": "svg-in"
+                                      }
+                                    ],
+                                    "resizable": {
+                                      "ratioDefault": true
+                                    },
+                                    "type": "svg"
+                                  },
+                                  {
+                                    "components": [
+                                      {
+                                        "content": "128 Willow Street, Riverside",
+                                        "type": "textnode"
+                                      },
+                                      {
+                                        "tagName": "br",
+                                        "void": true
+                                      },
+                                      {
+                                        "content": "District, Portland OR 97205",
+                                        "type": "textnode"
+                                      }
+                                    ],
+                                    "tagName": "span",
+                                    "type": "text"
+                                  }
+                                ],
+                                "tagName": "li"
+                              },
+                              {
+                                "components": [
+                                  {
+                                    "attributes": {
+                                      "aria-hidden": "true",
+                                      "fill": "none",
+                                      "stroke": "currentColor",
+                                      "stroke-linecap": "round",
+                                      "stroke-linejoin": "round",
+                                      "stroke-width": "2",
+                                      "viewBox": "0 0 24 24"
+                                    },
+                                    "components": [
+                                      {
+                                        "attributes": {
+                                          "d": "M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"
+                                        },
+                                        "resizable": {
+                                          "ratioDefault": true
+                                        },
+                                        "tagName": "path",
+                                        "type": "svg-in"
+                                      }
+                                    ],
+                                    "resizable": {
+                                      "ratioDefault": true
+                                    },
+                                    "type": "svg"
+                                  },
+                                  {
+                                    "components": [
+                                      {
+                                        "content": "(503) 555-0148",
+                                        "type": "textnode"
+                                      }
+                                    ],
+                                    "tagName": "span",
+                                    "type": "text"
+                                  }
+                                ],
+                                "tagName": "li"
+                              },
+                              {
+                                "components": [
+                                  {
+                                    "attributes": {
+                                      "aria-hidden": "true",
+                                      "fill": "none",
+                                      "stroke": "currentColor",
+                                      "stroke-linecap": "round",
+                                      "stroke-linejoin": "round",
+                                      "stroke-width": "2",
+                                      "viewBox": "0 0 24 24"
+                                    },
+                                    "components": [
+                                      {
+                                        "attributes": {
+                                          "d": "M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"
+                                        },
+                                        "resizable": {
+                                          "ratioDefault": true
+                                        },
+                                        "tagName": "path",
+                                        "type": "svg-in"
+                                      },
+                                      {
+                                        "attributes": {
+                                          "points": "22,6 12,13 2,6"
+                                        },
+                                        "resizable": {
+                                          "ratioDefault": true
+                                        },
+                                        "tagName": "polyline",
+                                        "type": "svg-in"
+                                      }
+                                    ],
+                                    "resizable": {
+                                      "ratioDefault": true
+                                    },
+                                    "type": "svg"
+                                  },
+                                  {
+                                    "components": [
+                                      {
+                                        "content": "hello@hearthandharvest.com",
+                                        "type": "textnode"
+                                      }
+                                    ],
+                                    "tagName": "span",
+                                    "type": "text"
+                                  }
+                                ],
+                                "tagName": "li"
+                              }
+                            ],
+                            "tagName": "ul"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "classes": [
+                      "footer__bottom"
+                    ],
+                    "components": [
+                      {
+                        "components": [
+                          {
+                            "content": "© 2026 Hearth & Harvest. All rights reserved.",
+                            "type": "textnode"
+                          }
+                        ],
+                        "tagName": "span",
+                        "type": "text"
+                      },
+                      {
+                        "classes": [
+                          "footer__legal"
+                        ],
+                        "components": [
+                          {
+                            "attributes": {
+                              "href": "#"
+                            },
+                            "components": [
+                              {
+                                "content": "Privacy Policy",
+                                "type": "textnode"
+                              }
+                            ],
+                            "type": "link"
+                          },
+                          {
+                            "attributes": {
+                              "href": "#"
+                            },
+                            "components": [
+                              {
+                                "content": "Terms of Service",
+                                "type": "textnode"
+                              }
+                            ],
+                            "type": "link"
+                          },
+                          {
+                            "attributes": {
+                              "href": "#"
+                            },
+                            "components": [
+                              {
+                                "content": "Allergen Info",
+                                "type": "textnode"
+                              }
+                            ],
+                            "type": "link"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "tagName": "footer"
+          }
+        ],
+        "docEl": {
+          "tagName": "html"
+        },
+        "head": {
+          "type": "head"
+        },
+        "publicStates": [],
+        "stylable": [
+          "background",
+          "background-color",
+          "background-image",
+          "background-repeat",
+          "background-attachment",
+          "background-position",
+          "background-size"
+        ],
+        "type": "wrapper"
+      },
+      "id": "qONba59dRbVYtPPm"
+    }
+  ],
+  "id": "B1cXD48Y7EwExkEmBm",
+  "name": "shop"
+}
